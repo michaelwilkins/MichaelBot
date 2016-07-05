@@ -5,5 +5,5 @@
     "I LOVE YOU": "Awh, shucks! I love you too!",
     "CONNECT ME": "",
     "DISCONNECT": "Roger that, EstherBot is back."
-    "CAREER": "Esther has 9 years of marketing experience and is passionate about storytelling and design.\nThe first 5 years were spent as a social marketing consultant for big brands.\nHer campaigns even won some awards for innovation in digital marketing.\nThen she got the itch to build her own product so she moved to San Francisco and cofounded Glmps, a 7 second video app.\nFor the past few years she's helped launch and grow other startups.\nWhat do you want to know more about? %[The big brands](postback:career_bigbrands) %[The startups](postback:career_startups) %[Right now](postback:availability)",
+    "CAREER": "Esther has 9 years of marketing experience and is passionate about storytelling and design.\nThe first 5 years were spent as a social marketing consultant for big brands.\nHer campaigns even won some awards for innovation in digital marketing.\nThen she got the itch to build her own product so she moved to San Francisco and cofounded Glmps, a 7 second video app.\nFor the past few years she's helped launch and grow other startups.\nWhat do you want to know more about? %[The big brands](postback:career_bigbrands) %[The startups](postback:career_startups) %[Right now](postback:availability)"
 }
