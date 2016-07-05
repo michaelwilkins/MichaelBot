@@ -5,7 +5,7 @@
     "I LOVE YOU": "Awh, shucks! I love you too!",
     "CONNECT ME": "",
     "DISCONNECT": "Roger that, EstherBot is back.",
-    "CAREER": "Michael has 15 years of design experience creating products people love.\nHe specialises in visual interfaces and system level design for digital products.\nOver the years Michael has contributed to significant designs while working at companies like News Corp & Topman London.n\nWhat do you want to know more about? %[The big brands](postback:career_bigbrands) %[The startups](postback:career_startups) %[Right now](postback:availability)"
+    "CAREER": "Michael has 15 years of design experience creating products people love.\nHe specialises in visual interfaces and system level design for digital products.\nOver the years Michael has contributed to significant designs while working at companies like News Corp & Topman London.\nWhat do you want to know more about? %[The big brands](postback:career_bigbrands) %[The startups](postback:career_startups) %[Right now](postback:availability)"
 }
 
 
