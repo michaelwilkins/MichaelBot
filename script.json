@@ -2,7 +2,7 @@
     "BOT": "Hi there!\nI’m the personal bot of Michael, a Product Designer from Brisbane, Australia.\n![michael](https://raw.githubusercontent.com/michaelwilkins/MichaelBot/master/img/michael.jpeg)\nWant to connect with Michael or learn about him? %[Career](postback:career) %[Learn about Michael](postback:career)",
     "HELLO": "Hi there!\nI’m the personal bot of Michael, a Product Designer from Brisbane, Australia.\n![michael](https://raw.githubusercontent.com/michaelwilkins/MichaelBot/master/img/michael.jpeg)\nWant to connect with Michael or learn about him? %[Career](postback:career) %[Learn about Michael](postback:career)",
     "HEY": "Hi there!\nI’m the personal bot of Michael, a Product Designer from Brisbane, Australia.\n![michael](https://raw.githubusercontent.com/michaelwilkins/MichaelBot/master/img/michael.jpeg)\nWant to connect with Michael or learn about him? %[Career](postback:career) %[Learn about Michael](postback:career)",
-    "TELL HER": "Let's tweet @ Michael so she knows you're setting a bot up. Here's a tweet that's ready to go: %[Tweet Esther](http://bit.ly/estherbot-tweet)",
+    "TELL HIM": "Let's tweet @ Michael so she knows you're setting a bot up. Here's a tweet that's ready to go: %[Tweet Michael]()",
     "I LOVE YOU": "Awh, shucks! I love you too!",
     "CONNECT ME": "",
     "DISCONNECT": "Roger that, WilkinsBot is back.",
