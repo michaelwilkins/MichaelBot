@@ -1,11 +1,12 @@
 {
-    "BOT": "Hi there!\nI’m the personal bot of Michael, a Product Designer from Brisbane, Australia.\nWant to connect with Michael or learn about him? %[Career](postback:career) %[Learn about Michael](postback:career)",
-    "HELLO": "Hi there!\nI’m Michael's personal 🤖 \nMichael Wilkins is a Product Designer from Brisbane, Australia. \nWant to connect with Michael or learn about him? %[Connect](postback:career) %[Learn about Michael](postback:career)",
-    "HEY": "Hi there!\nI’m the personal bot of Michael, a Product Designer from Brisbane, Australia.\n![michael](https://raw.githubusercontent.com/michaelwilkins/MichaelBot/master/img/michael.jpeg)\nWant to connect with Michael or learn about him? %[Career](postback:career) %[Learn about Michael](postback:Learn about Michael)",
+    "BOT": "G'day!\nI’m Michael's personal 🤖\nWant to connect with Michael or learn about him? %[Connect](postback:career) %[Learn about Michael](postback:career)",
+    "HELLO": "G'day!\nI’m Michael's personal 🤖\nWant to connect with Michael or learn about him? %[Connect](postback:career) %[Learn about Michael](postback:career)",
+    "HEY": "G'day!\nI’m Michael's personal 🤖\nWant to connect with Michael or learn about him? %[Connect](postback:career) %[Learn about Michael](postback:career)",
+    "gday": "G'day!\nI’m Michael's personal 🤖\nWant to connect with Michael or learn about him? %[Connect](postback:career) %[Learn about Michael](postback:career)",
     "I LOVE YOU": "Awh, shucks! I love you too!",
     "CONNECT ME": "",
     "DISCONNECT": "Roger that, WilkinsBot is back.",
-    "LEARN ABOUT MICHAEL": "Michael has 15 years of design experience creating products people love.\nHe specialises in visual interfaces and system level design for digital products.\nOver the years Michael has contributed to significant designs while working at companies like News Corp & Topman London.\nWhat do you want to know more about? %[The big brands](postback:career_bigbrands) %[The startups](postback:career_startups) %[Right now](postback:availability)"
+    "LEARN ABOUT MICHAEL": "Michael Wilkins is a Product Designer from Brisbane, Australia 🇦🇺\nMichael has 13 years of design experience creating products people love.\nHe specialises in visual interfaces and system level design for digital products.\nOver the years Michael has contributed to significant designs while working at companies like News Corp & Topman London.\nWhat do you want to know more about? %[The big brands](postback:career_bigbrands) %[The startups](postback:career_startups) %[Right now](postback:availability)"
 }
 
 
