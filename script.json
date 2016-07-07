@@ -1,6 +1,6 @@
 {
     "BOT": "Hi there!\nI’m the personal bot of Michael, a Product Designer from Brisbane, Australia.\n![michael](https://raw.githubusercontent.com/michaelwilkins/MichaelBot/master/img/michael.jpeg)\nWant to connect with Michael or learn about him? %[Career](postback:career) %[Learn about Michael](postback:career)",
-    "HELLO": "Hi there!\nI’m the personal bot of Michael, a Product Designer from Brisbane, Australia.\n![michael](https://raw.githubusercontent.com/michaelwilkins/MichaelBot/master/img/michael.jpeg)\nWant to connect with Michael or learn about him? %[Career](postback:career) %[Learn about Michael](postback:career)",
+    "HELLO": "Hi there!\nI’m the personal bot 🤖 of Michael Wilkins, a Product Designer from Brisbane, Australia.\n![michael](https://raw.githubusercontent.com/michaelwilkins/MichaelBot/master/img/michael.jpeg)\nWant to connect with Michael or learn about him? %[Career](postback:career) %[Learn about Michael](postback:career)",
     "HEY": "Hi there!\nI’m the personal bot of Michael, a Product Designer from Brisbane, Australia.\n![michael](https://raw.githubusercontent.com/michaelwilkins/MichaelBot/master/img/michael.jpeg)\nWant to connect with Michael or learn about him? %[Career](postback:career) %[Learn about Michael](postback:career)",
     "I LOVE YOU": "Awh, shucks! I love you too!",
     "CONNECT ME": "",
