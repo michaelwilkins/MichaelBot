@@ -1,6 +1,6 @@
 {
     "BOT": "G'day!\nI’m Michael's personal 🤖\nWant to connect with Michael or learn about him? %[Connect](postback:connect) %[Learn about Michael](postback:learn_about_michael)",
-    "Get Started": "G'day!\nI’m Michael's personal 🤖\nWant to connect with Michael or learn about him? %[Connect](postback:connect) %[Learn about Michael](postback:learn_about_michael)",
+    "GET STARTED": "G'day!\nI’m Michael's personal 🤖\nWant to connect with Michael or learn about him? %[Connect](postback:connect) %[Learn about Michael](postback:learn_about_michael)",
     "HELLO": "G'day!\nI’m Michael's personal 🤖\nWant to connect with Michael or learn about him? %[Connect](postback:connect) %[Learn about Michael](postback:learn_about_michael)",
     "HEY": "G'day!\nI’m Michael's personal 🤖\nWant to connect with Michael or learn about him? %[Connect](postback:connect) %[Learn about Michael](postback:learn_about_michael)",
     "GDAY": "G'day!\nI’m Michael's personal 🤖\nWant to connect with Michael or learn about him? %[Connect](postback:connect) %[Learn about Michael](postback:learn_about_michael)",
